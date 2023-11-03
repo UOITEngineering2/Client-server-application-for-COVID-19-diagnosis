@@ -1,3 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9997425&assignment_repo_type=AssignmentRepo)
 
 This is a client-server application for COVID-19 diagnosis with two methods. The first method is to calculate the probability of infection based on symptoms. A multylayered neural network [MLP file](MLP.py) was trained based on [Covid-19 patients symptom dataset](https://www.kaggle.com/datasets/takbiralam/covid19-symptoms-dataset) for this purpose. The second method is to diagnose the infection based based on X-ray image of chest. A convolutional neural network [CNN file](CNN.ipynb) was trained using Tensorflow 2.5.0 based on [COVID-19 Chest X-ray Image Dataset](https://www.kaggle.com/datasets/alifrahman/covid19-chest-xray-image-dataset). 
+
+This application has been created as an assignment in ENGR 5710G: Network Computing course instructed by Dr. Mahmoud at Ontario Tech University.  
